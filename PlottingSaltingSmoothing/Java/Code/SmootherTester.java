@@ -1,6 +1,6 @@
 /**
  * The SmootherTester class contains the main method for smoothing the plot.
- * It creates an instance of the Smoother class and smoothes the plot points by calling its run method.
+ * It creates an instance of the Smoother class and smoothes the plot points by passing a window value to its run method.
  * 
  * @author Rocco Vulpis
  * @version 12/14/2023
